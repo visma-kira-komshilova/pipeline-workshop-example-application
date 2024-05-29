@@ -1,4 +1,4 @@
-name: e2e pipeline
+name: ci-cd
 run-name: Build, Deploy, Test - from user @${{ github.actor }}
 
 on: 
