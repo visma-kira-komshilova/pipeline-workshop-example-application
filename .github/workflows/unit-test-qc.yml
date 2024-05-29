@@ -1,4 +1,4 @@
-name: ci-cd
+name: ci-cd-qc
 run-name: Build, Deploy to UAT and Test - from user @${{ github.actor }}
 
 on: 
